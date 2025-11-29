@@ -16,7 +16,8 @@ Soy estudiante de Ingeniería en Software en los últimos semestres y actualment
 
 ## 🌟 Algunos proyectos destacados
 - 📘 API para gestión de libros  
-- 💧 Sistema de monitoreo de consumo de agua  
+- 📘 API para gestión de librería
+- 🚗 API para gestión de vehiculos
 - 📝 Aplicación de aprendizaje de inglés técnico  
 
 ## 🎯 Objetivo
