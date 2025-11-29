@@ -24,4 +24,4 @@ Desarrollarme como ingeniero de software especializado en backend y arquitectura
 
 ## 📫 Contacto
 - Email: jorgefranciscoacostaa@gmail.com
-- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jorge-francisco-acosta-alcal%C3%A1-574986365/)
+- LinkedIn: [https://linkedin.com/in/JorgeFAA](https://www.linkedin.com/in/jorge-francisco-acosta-alcal%C3%A1-574986365/)
