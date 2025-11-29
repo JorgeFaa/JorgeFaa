@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge
 
-<!--
-**JorgeFaa/JorgeFaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Software en los últimos semestres y actualmente busco una oportunidad de **prácticas profesionales** para completar mi titulación. Me interesa el desarrollo backend y la creación de soluciones eficientes y bien estructuradas.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que utilizo
+- **Lenguajes:** Java, Python, JavaScript/TypeScript  
+- **Backend:** Spring Boot, FastAPI, Express  
+- **Frontend:** React  
+- **Bases de datos:** PostgreSQL, MongoDB  
+- **DevOps / Otros:** Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+- Arquitectura limpia  
+- Kubernetes  
+- Testing automatizado  
+
+## 🌟 Algunos proyectos destacados
+- 📘 API para gestión de libros  
+- 💧 Sistema de monitoreo de consumo de agua  
+- 📝 Aplicación de aprendizaje de inglés técnico  
+
+## 🎯 Objetivo
+Desarrollarme como ingeniero de software especializado en backend y arquitectura de sistemas.
+
+## 📫 Contacto
+- Email: jorgefranciscoacostaa@gmail.com
+- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jorge-francisco-acosta-alcal%C3%A1-574986365/)
